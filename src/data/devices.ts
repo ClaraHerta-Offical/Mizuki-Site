@@ -14,13 +14,13 @@ export type DeviceCategory = Record<string, Device[]> & {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	iPhone: [
 		{
-			name: "OnePlus 13T",
+			name: "iPhone Xs",
 			image: "/images/device/oneplus13t.webp",
-			specs: "Gray / 16G + 1TB",
-			description: "Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+			specs: "Gold / 256G",
+			description: "The first Face ID, the final 3D Touch.",
+			link: "https://support.apple.com/zh-cn/111881",
 		},
 	],
 	Router: [
