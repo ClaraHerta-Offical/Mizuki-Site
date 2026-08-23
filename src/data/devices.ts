@@ -17,7 +17,7 @@ export const devicesData: DeviceCategory = {
 	iPhone: [
 		{
 			name: "iPhone Xs",
-			image: "/images/device/oneplus13t.webp",
+			image: "/images/device/111881_SP779-iphone-xs.jpg",
 			specs: "Gold / 256G",
 			description: "The first Face ID, the final 3D Touch.",
 			link: "https://support.apple.com/zh-cn/111881",
